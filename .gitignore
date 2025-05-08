@@ -1,0 +1,10 @@
+# 忽略所有 .jpg 文件
+*.jpg
+
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略 npm 日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
