@@ -1,5 +1,18 @@
 # 忽略所有 .jpg 文件
 *.jpg
+*.mp3
+*.mp4
+*.png
+*.gif
+*.jpeg
+*.webp
+*.heic
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.webm
 
 # 忽略 node_modules 目录
 node_modules/
